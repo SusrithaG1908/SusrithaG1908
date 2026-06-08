@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Computer Science Engineering student from CBIT.<br><br>🔭 I’m currently working on:<br>Full Stack Development (MERN)<br>Artificial Intelligence & Machine Learning<br><br>🌱 I’m currently learning:<br>Deep Learning
+I'm a passionate Computer Science Engineering student from CBIT.<br><br>🔭 I’m currently working on:<br>Full Stack Development (MERN)<br>Artificial Intelligence & Machine Learning<br><br>🌱 I’m currently learning:<br>Deep Learning GenAI
 
 
 ## 🌐 Socials:
