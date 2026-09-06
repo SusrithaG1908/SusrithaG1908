@@ -1,11 +1,11 @@
 # 💫 About Me:
 I'm a passionate Computer Science Engineering student from CBIT.<br><br>🔭
-I'm currently working as a software Intern at Fission Labs
+I worked as a software Intern at Fission Labs during summer.
 
 Where I built an end-to-end RAG pipeline using FAISS, Sentence Transformers, TF-IDF, Reciprocal Rank Fusion
 (RRF), and Gemini, improving retrieval Recall@5 from 12% to 86% on a custom BBC News QA benchmark.
 
-I’m currently working on:<br>Full Stack Development (MERN)<br>Artificial Intelligence & Machine Learning<br><br>🌱 I’m currently learning:<br>Deep Learning <br>GenAI
+I’m currently working on:Artificial Intelligence & Machine Learning<br><br><br>Full Stack Development (MERN)<br>🌱 I’m currently working on:<br>Agentic Systems<br>GenAI
 
 
 ## 🌐 Socials:
