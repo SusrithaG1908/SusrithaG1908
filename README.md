@@ -5,7 +5,7 @@ I worked as a software Intern at Fission Labs during summer.
 Where I built an end-to-end RAG pipeline using FAISS, Sentence Transformers, TF-IDF, Reciprocal Rank Fusion
 (RRF), and Gemini, improving retrieval Recall@5 from 12% to 86% on a custom BBC News QA benchmark.
 
-I’m currently working on:<br>Artificial Intelligence & Machine Learning<br>Full Stack Development (MERN)<br><br>🌱 I’m currently working on:<br>Agentic Systems<br>GenAI
+My tech stack :<br>Artificial Intelligence & Machine Learning<br>Full Stack Development (MERN)<br><br>🌱 I’m currently working on:<br>Agentic Systems<br>GenAI
 
 
 ## 🌐 Socials:
